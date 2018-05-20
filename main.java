@@ -27,6 +27,7 @@ public class main {
         }
 
         System.out.println("Размер:" + countMap.size() + " элементов");
+
     }
 
     public static void main(String[] args) {
